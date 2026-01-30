@@ -25,7 +25,7 @@ my_favourite_films.append("Hunert")
 profile_info = ("michel", "michel@gmail.com", "12345678", "Ukraine")
 marks["Ryan"] = 2
 collection_of_coins.add(14)
-sorted_variables = {
+sorted_variables = {  # ПРОВЕРЬ КАЖДУЮ БУКВУ ТУТ
     "mutable": [
         my_favourite_films,
         marks,
