@@ -16,16 +16,7 @@ marks = {
 }
 collection_of_coins = {1, 2, 25}
 
-# --- Блок изменений ---
-lucky_number += 1
-pi = 3.14159
-one_is_a_prime_number = True
-name = "Richard Jones"
-my_favourite_films.append("Hunert")
-profile_info = ("michel", "michel@gmail.com", "12345678", "Ukraine")
-marks["Ryan"] = 2
-collection_of_coins.add(14)
-sorted_variables = {  # ПРОВЕРЬ КАЖДУЮ БУКВУ ТУТ
+sorted_variables = {
     "mutable": [
         my_favourite_films,
         marks,
